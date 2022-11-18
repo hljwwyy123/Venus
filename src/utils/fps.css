@@ -1,0 +1,13 @@
+#fps{
+  background: black;
+  color: white;
+  padding: 2px;
+  opacity: 0.5;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 70px;
+  height: 26px;
+  overflow: hidden;
+  font-size: 16px;
+}

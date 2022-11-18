@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "noImplicitAny": false,
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["es6", "dom", "es2017", "es2018.promise"],
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "importHelpers": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true,
+    "types": ["node"]
+  },
+  "include": ["src/*"], // 需要编译的文件目录
+  "exclude": ["node_modules", "build", "lib"], // 排除编译的文件目录
+  "typedocOptions": {
+    "name": "Docs",
+    "mode": "file",
+    "includeDeclarations": false,
+    "ignoreCompilerErrors": true
+  }
+}
