@@ -2,8 +2,8 @@ import React, { useEffect } from "react"
 import Viz from ".";
 
 export default {
-  title: "Ghost",
-  component: Ghost
+  title: "GL",
+  component: [Ghost]
 }
 
 export function Ghost() {
