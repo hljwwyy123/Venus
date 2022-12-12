@@ -8,6 +8,7 @@
   ],
   "sideEffects": false,
   "scripts": {
+    "story": "start-storybook -p 6006",
     "start": "npm run dev",
     "build": "tsc&&node ./build/index.js",
     "dev": "start-storybook -p 6006",
@@ -27,6 +28,7 @@
     "@types/node": "^14.14.35",
     "@types/react": "^16.14.5",
     "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^5.5.0",
     "husky": "^5.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -45,5 +47,8 @@
     "type": "git",
     "url": "git+https://github.com/hljwwyy123/Venus.git"
   },
-  "homepage": "https://github.com/hljwwyy123/Venus#readme"
+  "homepage": "https://github.com/hljwwyy123/Venus#readme",
+  "dependencies": {
+    "image-promise": "^7.0.1"
+  }
 }
