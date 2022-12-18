@@ -8,10 +8,10 @@
   ],
   "sideEffects": false,
   "scripts": {
-    "story": "start-storybook -p 6006",
+    "story": "start-storybook -p 6008",
     "start": "npm run dev",
     "build": "tsc&&node ./build/index.js",
-    "dev": "start-storybook -p 6006",
+    "dev": "start-storybook -p 6008",
     "build-storybook": "npm run build && build-storybook -o ./docs",
     "prepare": "husky install",
     "prepublishOnly": "npm run build"
@@ -30,8 +30,11 @@
     "babel-loader": "^8.1.0",
     "html-webpack-plugin": "^5.5.0",
     "husky": "^5.2.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "storybook-less-loader": "^0.1.0",
     "terser": "^4.8.0",
     "typescript": "^4.2.3",
     "webpack-glsl-loader": "^1.0.1"
@@ -49,6 +52,8 @@
   },
   "homepage": "https://github.com/hljwwyy123/Venus#readme",
   "dependencies": {
+    "@alife/aseat-core": "0.1.11",
+    "i-render": "^0.0.41",
     "image-promise": "^7.0.1"
   }
 }
