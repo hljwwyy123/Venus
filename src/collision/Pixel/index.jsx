@@ -235,18 +235,20 @@ export default function Pixel() {
     onscreenContext.font = '16px Arial';
   
     if(isCollisions) {
-      onscreenContext.fillText('collision', 15, canvas.height - 10);
+      setText('collision')
     } else {
-      onscreenContext.fillText('通过↑↓←→键移动元素', 15, canvas.height - 10);
+      setText('通过↑↓←→键移动元素')
     }
     onscreenContext.restore()
   }
+  const [text, setText] = useState("")
   useEffect(() => {
     init();
   },[])
 
   return <div>
-    <canvas id="canvas" width="200" height="100"></canvas>
+    <canvas id="canvas" style={{margin: "100px"}} width="200" height="100"></canvas>
+    <p>{text}</p>
     <div id="offscreenCanvasWrap">
       <div className="ObjectB"><p>ImageA离屏渲染：</p></div>
       <div className="objectA"><p>ImageB离屏渲染</p></div>

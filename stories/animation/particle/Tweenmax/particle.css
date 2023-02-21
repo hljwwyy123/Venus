@@ -1,0 +1,5 @@
+.particle-container canvas {
+  position: absolute;
+  background: black;
+}
+
