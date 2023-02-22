@@ -16,7 +16,7 @@
     "prepare": "husky install",
     "prepublishOnly": "npm run build"
   },
-  "author": "cofeewithrose",
+  "author": "Aiden",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.13.10",
@@ -53,7 +53,10 @@
   "homepage": "https://github.com/hljwwyy123/Venus#readme",
   "dependencies": {
     "@alife/aseat-core": "0.1.11",
+    "gsap": "^3.11.4",
     "i-render": "^0.0.41",
-    "image-promise": "^7.0.1"
+    "image-promise": "^7.0.1",
+    "three": "^0.149.0",
+    "three-bas": "^2.4.0"
   }
 }

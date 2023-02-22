@@ -1,7 +1,7 @@
 /*
 Desc: Define inital variables
 */
-const DOT_COUNT = 2240;
+const DOT_COUNT = 2048;
 var numberStage,
     numberStageCtx,
     numberStageWidth = 680,
@@ -17,8 +17,8 @@ var numberStage,
     stageCenterX = stageWidth / 2,
     stageCenterY = stageHeight / 2,
 
-    countdownFrom = 3,
-    countdownTimer = 1800,
+    countdownFrom = 1,
+    countdownTimer = 2000,
     countdownRunning = true,
 
     number,
@@ -84,10 +84,10 @@ for (var i = 0; i < DOT_COUNT; i++) {
 
     // Push to into an array of dots
     dots.push(dot);
-
+    
     // Animate dots
     tweenDots(dot, '', 'space');
-}
+  }
 
 
 /*
@@ -137,7 +137,7 @@ function drawNumber(num) {
 
     numberStageCtx.fillStyle = "#24282f";
     numberStageCtx.textAlign = 'center';
-    numberStageCtx.font = "bold 418px Lato";
+    numberStageCtx.font = "bold 418px PingFang-SC";
     numberStageCtx.fillText(num, 340, 400);
 
     var ctx = numberStageCtx;
