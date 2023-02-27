@@ -6,10 +6,13 @@
 .draw-text-container canvas{
   position: relative;
   /* margin: 30px auto; */
+  box-sizing: border-box;
 }
 #number_canvas{
-  background-size: 20px 20px;
+  background-size: 10px 10px;
   background-image:
     linear-gradient(to right, grey 1px, transparent 1px),
     linear-gradient(to bottom, grey 1px, transparent 1px);
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
 }
