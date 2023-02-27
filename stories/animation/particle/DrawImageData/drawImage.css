@@ -1,0 +1,15 @@
+.draw-text-container{
+  /* display: flex; */
+  width: 100%;
+  text-align: center;
+}
+.draw-text-container canvas{
+  position: relative;
+  /* margin: 30px auto; */
+}
+#number_canvas{
+  background-size: 20px 20px;
+  background-image:
+    linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
+}

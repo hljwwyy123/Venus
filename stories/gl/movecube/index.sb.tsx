@@ -4,10 +4,10 @@ import init from "./index"
 
 export default {
   title: "移动的方块",
-  component: [BlockMove]
+  component: [RotateCube]
 }
 
-export function BlockMove() {
+export function RotateCube() {
   useEffect(() => {
     setTimeout(() => {
       init()
