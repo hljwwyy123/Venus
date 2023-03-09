@@ -11,29 +11,36 @@ const GlobalOption = {
     stageWidth: 0,
     stageHeight: 0,
 }
-export default class Demo {
+export default class DrawText {
     canvasDom = null;
     ctx = null;
     coloredGridPos = {};
 
-    init(paintDom, text) {
+    init(options) {
+        const { paintDom, stageSize = {}, text = '', pixelSize = {w: 2, h: 2} } = options;
         this.canvasDom = typeof paintDom === 'string' ? document.getElementById(paintDom) : paintDom; 
         const style = this.canvasDom.getBoundingClientRect();
         this.ctx = this.canvasDom.getContext('2d');
-        GlobalOption.stageWidth = ~~style.width;
-        GlobalOption.stageHeight = ~~style.height;
+        GlobalOption.stageWidth = stageSize.width || ~~style.width;
+        GlobalOption.stageHeight = stageSize.height || ~~style.height;
+        this.canvasDom.width = GlobalOption.stageWidth;
+        this.canvasDom.height = GlobalOption.stageHeight;
         GlobalOption.text = text;
+        GlobalOption.xDelta = pixelSize.w || 8
+        GlobalOption.yDelta = pixelSize.h || 8
         GlobalOption.gridSize = {
             x: GlobalOption.stageWidth / GlobalOption.xDelta,
             y: GlobalOption.stageHeight / GlobalOption.yDelta,
         }
-        this.drawPixelText();
+        console.log(GlobalOption)
+        return GlobalOption
     }
 
-    drawPixelText(){
+    drawPixelText(text){
         Utils.gridHelper(this.ctx)
         const offscreenHelper = new OffScreenHelper()
-        offscreenHelper.drawText(GlobalOption.text);
+        GlobalOption.text = text;
+        offscreenHelper.drawText(text);
         this.coloredGridPos = offscreenHelper.computedColoredGrid();
         this.ctx.fillStyle = 'red';
         const posList = Object.values(this.coloredGridPos);
@@ -47,6 +54,8 @@ export default class Demo {
                 GlobalOption.yDelta-1
             )
         }
+        console.log({coloredGridPos: this.coloredGridPos})
+        return this.coloredGridPos;
     }
 }
 

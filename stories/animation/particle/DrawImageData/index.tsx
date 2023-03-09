@@ -1,17 +1,27 @@
 import React, { useState, useEffect }  from "react"
-import Demo from "./animate"
+import DrawText from "./animate"
 import "./drawImage.css"
 
 export default function DrawImageData() {
-  const [size, setSize] = useState({width: 800, height:600})
   useEffect(() => {
-    const animate = new Demo();
+    const animate = new DrawText();
     setTimeout(() => {
-      animate.init('dot_canvas', '1234');
+      animate.init({
+        paintDom: 'dot_canvas', 
+        stageSize: {
+          width: 600,
+          height: 300
+        },
+        pixelSize: {
+          w: 4,
+          h: 4
+        }
+      });
+      animate.drawPixelText(1122)
     }, 300);
   }, [])
 
   return <div className="draw-text-container">
-  <canvas width={size.width} height={size.height} id="dot_canvas"></canvas> 
+  <canvas id="dot_canvas"></canvas> 
 </div>
 }

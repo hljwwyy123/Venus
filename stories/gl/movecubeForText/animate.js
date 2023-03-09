@@ -179,9 +179,9 @@ function Animation(gridSize) {
 
       // animation
       //dataArray[0] = maxDelay * Math.sqrt(x * x + z * z) / gridSize;
-      // dataArray[0] = maxDelay * Math.random();
-      // dataArray[1] = timeline.duration;
-      // geometry.setPrefabData(aDelayDuration, index, dataArray);
+      dataArray[0] = maxDelay * Math.random();
+      dataArray[1] = timeline.duration;
+      geometry.setPrefabData(aDelayDuration, index, dataArray);
 
       index++;
     }

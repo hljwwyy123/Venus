@@ -35,7 +35,7 @@ export default function init() {
   function createAnimation(i) {
     // var gridSize = sizes[i];
 
-    var gridSize = 50;
+    var gridSize = 40;
     elCount.innerHTML = gridSize;
     elBtnRight.classList.toggle('disabled', i === sizes.length - 1);
     elBtnLeft.classList.toggle('disabled', index === 0);
@@ -60,7 +60,7 @@ export default function init() {
     root.add(animation);
 
     tween = animation.animate({
-      repeat: 1,
+      repeat: -1,
       repeatDelay: 2.0,
       ease: Power0.easeNone
     }).timeScale(3.0);
@@ -201,7 +201,7 @@ function Animation(gridSize) {
   var prefab = new THREE.BoxGeometry(prefabSize, prefabSize, prefabSize);
   //prefab.translate(0, prefabSize * 0.5, 0);
 
-  // setup prefab geometry
+  // setup prefab geometry gridSize = 50
   var prefabCount = gridSize * gridSize;
   var geometry = new THREE.BAS.PrefabBufferGeometry(prefab, prefabCount);
 
@@ -215,9 +215,10 @@ function Animation(gridSize) {
 
   for (var i = 0; i < gridSize; i++) {
     for (var j = 0; j < gridSize; j++) {
+      // gridSize = 50
       var x = THREE.Math.mapLinear(i, 0, gridSize, -gridSize * 0.5, gridSize * 0.5) + 0.5;
       var z = THREE.Math.mapLinear(j, 0, gridSize, -gridSize * 0.5, gridSize * 0.5) + 0.5;
-
+console.log({x, z})
       // position
       dataArray[0] = x;
       dataArray[1] = 0;
@@ -227,8 +228,9 @@ function Animation(gridSize) {
       // animation
       // dataArray[0] = maxDelay * Math.sqrt(x * x + z * z) / gridSize;
       dataArray[0] = maxDelay * Math.random();
-      // dataArray[0] = 1;
       dataArray[1] = timeline.duration;
+
+      // dataArray[1] = 100
       geometry.setPrefabData(aDelayDuration, index, dataArray);
 
       index++;
