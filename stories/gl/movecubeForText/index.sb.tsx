@@ -8,18 +8,11 @@ export default {
 
 export function CubeForText() {
   useEffect(() => {
-    setTimeout(() => {
-
-      init()
-    }, 500);
+      init('王新一', "#three-container")
   }, [])
   return (
     <>
-    <div id="three-container"></div>
-    <canvas id="dot_canvas"></canvas> 
-    <div className="controls">
-      <span className="btn left disabled">-</span><span className="count">1</span><span className="btn right">+</span>
-    </div>
+      <div id="three-container"></div>
     </>
   )
 }

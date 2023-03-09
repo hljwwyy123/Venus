@@ -1,4 +1,4 @@
-import { CanvasCircle as Circle, Layer } from "@alife/aseat-core";
+import { CanvasCircle as Circle, Layer } from "venus-render-core";
 
 export function seatFactory(seatLayer: Layer, xOffset = 300, yOffset = 100, rowCount:number = 20, cellCount: number = 20) {
   let tmpData: Array<Circle> = [];

@@ -29,7 +29,7 @@ export function measureDivBinary(text, min, max, width, height) {
   var cur = min + (max - min) / 2; // 一次加 delta的一半
   const textBox = mesureTextForDOM({
     text,
-    fontFamily: "PingFang-SC",
+    fontFamily: "PingFang-SC,arial,sans-serif",
     fontSize: cur
   });
   if (textBox.width >= width || textBox.height >= height) {

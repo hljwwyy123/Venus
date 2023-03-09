@@ -1,43 +1,13 @@
 import DrawText from "../../animation/particle/DrawImageData/animate"
-// import coordinate2dTo3d from "../../../src/utils/index"
-
-/**
- * This is a proof-of-concept for 'embedding' an animation timeline inside the vertex shader.
- * Implementation is very rough. Only translation and scale are supported.
- * This may or may not end up being useful.
- */
 
 const viewportWidth = 1000;
 const viewportHeight = 500;
 
-function get3dPosition(text) {
-  const drawImageTextAnimate = new DrawText();
-  const imageDateInfo = drawImageTextAnimate.init({
-    paintDom: 'dot_canvas', 
-    stageSize: {
-      width: viewportWidth,
-      height: viewportHeight,
-    },
-    pixelSize: {
-      w: 5,
-      h: 5
-    }
-  });
-  const coloredGridPos = drawImageTextAnimate.drawPixelText(text);
-  let pixel2dPositions = Object.values(coloredGridPos)
+export default function init(text, container) {
+  let { pos3d, gridSize } = get3dPosition(text);
+  gridSize = Math.max(gridSize.row, gridSize.column);
   
-  const pos3d = []
-  pixel2dPositions.forEach(p => {
-    pos3d.push({x: p.x - imageDateInfo.gridSize.x/2, y: p.y - imageDateInfo.gridSize.y/2})
-  });
-  return { pos3d, gridSize: imageDateInfo.gridSize};
-}
-
-export default function init() {
-  let { pos3d, gridSize } = get3dPosition("hello");
-  gridSize = Math.max(gridSize.x, gridSize.y);
-  
-  var root = new THREERoot();
+  var root = new THREERoot({container});
   root.renderer.setClearColor(0xffffff);
   root.camera.position.set(-20, 12, 12);
 
@@ -71,7 +41,7 @@ export default function init() {
     gridHelper = new THREE.GridHelper(gridSize * 0.5, 1, 0x222222, 0x444444);
     root.add(gridHelper);
 
-    animation = new Animation(gridSize, pos3d);
+    animation = new Animation(pos3d);
     animation.position.y = 0.25;
     root.add(animation);
 
@@ -84,12 +54,34 @@ export default function init() {
 
   createAnimation();
 }
+/**
+ * 
+ * @param {*} text 
+ * @returns 
+ */
+function get3dPosition(text) {
+  const drawImageTextAnimate = new DrawText();
+  const imageDateInfo = drawImageTextAnimate.init({
+    stageSize: {
+      width: viewportWidth,
+      height: viewportHeight,
+    },
+    pixelSize: {
+      w: 5,
+      h: 5
+    }
+  });
+  const coloredGridPos = drawImageTextAnimate.drawPixelText(text);
+  let pixel2dPositions = Object.values(coloredGridPos)
+  
+  const pos3d = []
+  pixel2dPositions.forEach(p => {
+    pos3d.push({x: p.x - imageDateInfo.gridSize.row/2, y: p.y - imageDateInfo.gridSize.column/2})
+  });
+  return { pos3d, gridSize: imageDateInfo.gridSize};
+}
 
-////////////////////
-// CLASSES
-////////////////////
-
-function Animation(gridSize, position) {
+function Animation(position) {
   // setup timeline
 
   // the timeline generates shader chunks where an animation step is baked into.
@@ -205,11 +197,7 @@ function Animation(gridSize, position) {
   // setup prefab
   var prefabSize = 0.5;
   var prefab = new THREE.BoxGeometry(prefabSize, prefabSize, prefabSize);
-  // prefab.translate(0.5, 0, 0.5);
-
-  // setup prefab geometry
   var prefabCount = position.length;
-  console.log({prefabCount})
   var geometry = new THREE.BAS.PrefabBufferGeometry(prefab, prefabCount);
 
   var aPosition = geometry.createAttribute('aPosition', 3);
@@ -224,7 +212,6 @@ function Animation(gridSize, position) {
     dataArray[0] = position[i].x + 0.5
     dataArray[1] = 0;
     dataArray[2] = position[i].y + 0.5;
-    console.log(dataArray)
     geometry.setPrefabData(aPosition, i, dataArray);
     dataArray[0] = maxDelay * Math.random();
     dataArray[1] = timeline.duration;
@@ -308,7 +295,7 @@ Animation.prototype.animate = function (options) {
 function THREERoot(params) {
   // defaults
   params = Object.assign({
-      container: '#three-container',
+      container: document.querySelector(params.container),
       fov: 45,
       zNear: 1.0,
       zFar: 1000.0,

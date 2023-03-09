@@ -1,5 +1,5 @@
 import React, { PureComponent } from "react";
-import { Stage, CanvasGridLayer, CanvasGridCircle as Circle } from "@alife/aseat-core";
+import { Stage, CanvasGridLayer, CanvasGridCircle as Circle } from "venus-render-core";
 import { seatFactory } from "./utils";
 import { startFPS, stopFPS } from '@/utils/fps';
 

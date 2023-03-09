@@ -218,7 +218,6 @@ function Animation(gridSize) {
       // gridSize = 50
       var x = THREE.Math.mapLinear(i, 0, gridSize, -gridSize * 0.5, gridSize * 0.5) + 0.5;
       var z = THREE.Math.mapLinear(j, 0, gridSize, -gridSize * 0.5, gridSize * 0.5) + 0.5;
-console.log({x, z})
       // position
       dataArray[0] = x;
       dataArray[1] = 0;
