@@ -1,6 +1,6 @@
 import React, { useEffect }  from "react";
 import Quadtree from "../../assets/quadtree/quadtree.js"
-// import "./quadtree.less"
+// import "./quadtree.css"
 
 export default function QuadtreeDemo() {
   useEffect(() => {
