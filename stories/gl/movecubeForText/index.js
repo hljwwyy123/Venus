@@ -290,64 +290,6 @@ Animation.prototype.animate = function (options) {
     time: 0.0
   }, options);
 };
-
-// THREE ROOT
-function THREERoot(params) {
-  // defaults
-  params = Object.assign({
-      container: document.querySelector(params.container),
-      fov: 45,
-      zNear: 1.0,
-      zFar: 1000.0,
-      createCameraControls: true,
-      autoStart: true,
-      pixelRatio: window.devicePixelRatio,
-      antialias: window.devicePixelRatio === 1,
-      alpha: false
-    },
-    params);
-
-  // maps and arrays
-  this.updateCallbacks = [];
-  this.resizeCallbacks = [];
-  this.objects = {};
-
-  // renderer
-  this.renderer = new THREE.WebGLRenderer({
-    antialias: params.antialias,
-    alpha: params.alpha
-  });
-
-  this.renderer.setPixelRatio(params.pixelRatio);
-
-  // container
-  this.container = typeof params.container === 'string' ? document.querySelector(params.container) : params.container;
-  this.container.appendChild(this.renderer.domElement);
-
-  // camera
-  this.camera = new THREE.PerspectiveCamera(
-    params.fov,
-    viewportWidth / viewportHeight,
-    params.zNear,
-    params.zFar
-  );
-
-
-  // scene
-  this.scene = new THREE.Scene();
-
-  // resize handling
-  this.resize = this.resize.bind(this);
-  this.resize();
-  window.addEventListener('resize', this.resize, false);
-
-  // tick / update / render
-  this.tick = this.tick.bind(this);
-  params.autoStart && this.tick();
-
-  // optional camera controls
-  params.createCameraControls && this.createOrbitControls();
-}
 THREERoot.prototype = {
   createOrbitControls: function () {
     this.controls = new THREE.OrbitControls(this.camera, this.renderer.domElement);
@@ -450,4 +392,60 @@ THREERoot.prototype = {
     }.bind(this));
   }
 };
-//# sourceURL=pen.js
+function THREERoot(params) {
+
+  // defaults
+  params = Object.assign({
+      container: document.querySelector(params.container),
+      fov: 45,
+      zNear: 1.0,
+      zFar: 1000.0,
+      createCameraControls: true,
+      autoStart: true,
+      pixelRatio: window.devicePixelRatio,
+      antialias: window.devicePixelRatio === 1,
+      alpha: false
+    },
+    params);
+
+  // maps and arrays
+  this.updateCallbacks = [];
+  this.resizeCallbacks = [];
+  this.objects = {};
+
+  // renderer
+  this.renderer = new THREE.WebGLRenderer({
+    antialias: params.antialias,
+    alpha: params.alpha
+  });
+
+  this.renderer.setPixelRatio(params.pixelRatio);
+
+  // container
+  this.container = typeof params.container === 'string' ? document.querySelector(params.container) : params.container;
+  this.container.appendChild(this.renderer.domElement);
+
+  // camera
+  this.camera = new THREE.PerspectiveCamera(
+    params.fov,
+    viewportWidth / viewportHeight,
+    params.zNear,
+    params.zFar
+  );
+
+
+  // scene
+  this.scene = new THREE.Scene();
+
+  // resize handling
+  this.resize = this.resize.bind(this);
+  this.resize();
+  window.addEventListener('resize', this.resize, false);
+
+  // tick / update / render
+  this.tick = this.tick.bind(this);
+  params.autoStart && this.tick();
+
+  // optional camera controls
+  params.createCameraControls && this.createOrbitControls();
+}
