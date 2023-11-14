@@ -51,6 +51,7 @@
   "dependencies": {
     "gsap": "^3.11.4",
     "image-promise": "^7.0.1",
+    "mapbox-gl": "^2.15.0",
     "three": "^0.149.0",
     "three-bas": "^2.4.0",
     "venus-render-core": "^1.0.1"

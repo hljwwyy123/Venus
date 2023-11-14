@@ -1,0 +1,3079 @@
+[
+    {
+        "wayid": "259556839",
+        "name": "6索 Line 6",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2649850067",
+                "latitude": 40.9670975,
+                "longitude": 115.3809607
+            },
+            {
+                "nodeid": "9458218084",
+                "latitude": 40.9666399,
+                "longitude": 115.3815428
+            },
+            {
+                "nodeid": "9458218083",
+                "latitude": 40.9658692,
+                "longitude": 115.3825235
+            },
+            {
+                "nodeid": "9458218082",
+                "latitude": 40.9647621,
+                "longitude": 115.3839321
+            },
+            {
+                "nodeid": "9458218081",
+                "latitude": 40.9641964,
+                "longitude": 115.3846517
+            },
+            {
+                "nodeid": "9458218080",
+                "latitude": 40.963462,
+                "longitude": 115.385586
+            },
+            {
+                "nodeid": "9458218079",
+                "latitude": 40.9626494,
+                "longitude": 115.38662
+            },
+            {
+                "nodeid": "9458218078",
+                "latitude": 40.9614,
+                "longitude": 115.3882094
+            },
+            {
+                "nodeid": "9458218077",
+                "latitude": 40.9602984,
+                "longitude": 115.3896108
+            },
+            {
+                "nodeid": "2651531013",
+                "latitude": 40.9594077,
+                "longitude": 115.390744
+            },
+            {
+                "nodeid": "9458218076",
+                "latitude": 40.9590242,
+                "longitude": 115.391232
+            },
+            {
+                "nodeid": "9458218075",
+                "latitude": 40.9585695,
+                "longitude": 115.3918104
+            },
+            {
+                "nodeid": "9458218074",
+                "latitude": 40.9577258,
+                "longitude": 115.3928837
+            },
+            {
+                "nodeid": "9458218073",
+                "latitude": 40.9569383,
+                "longitude": 115.3938855
+            },
+            {
+                "nodeid": "9458218072",
+                "latitude": 40.9560646,
+                "longitude": 115.394997
+            },
+            {
+                "nodeid": "9458218071",
+                "latitude": 40.9554234,
+                "longitude": 115.3958126
+            },
+            {
+                "nodeid": "9458218070",
+                "latitude": 40.9547277,
+                "longitude": 115.3966976
+            },
+            {
+                "nodeid": "2649850065",
+                "latitude": 40.9546056,
+                "longitude": 115.3968529
+            }
+        ],
+        "type": 1,
+        "subType": 4,
+        "difficulty": null
+    },
+    {
+        "wayid": "259700924",
+        "name": "游龙道 Swimming Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651491367",
+                "latitude": 40.954133,
+                "longitude": 115.3975518
+            },
+            {
+                "nodeid": "2651491372",
+                "latitude": 40.9543066,
+                "longitude": 115.3985334
+            },
+            {
+                "nodeid": "2651491377",
+                "latitude": 40.9548961,
+                "longitude": 115.4004726
+            },
+            {
+                "nodeid": "2651491381",
+                "latitude": 40.9553842,
+                "longitude": 115.4016265
+            },
+            {
+                "nodeid": "2651491384",
+                "latitude": 40.9565233,
+                "longitude": 115.4042121
+            },
+            {
+                "nodeid": "2651491387",
+                "latitude": 40.9568849,
+                "longitude": 115.4045856
+            },
+            {
+                "nodeid": "8174438423",
+                "latitude": 40.9570304,
+                "longitude": 115.4046715
+            },
+            {
+                "nodeid": "2651491390",
+                "latitude": 40.9574526,
+                "longitude": 115.4049208
+            },
+            {
+                "nodeid": "2651491393",
+                "latitude": 40.9581867,
+                "longitude": 115.4054379
+            },
+            {
+                "nodeid": "2651491397",
+                "latitude": 40.958852,
+                "longitude": 115.4054858
+            },
+            {
+                "nodeid": "2651491400",
+                "latitude": 40.9599982,
+                "longitude": 115.4052895
+            },
+            {
+                "nodeid": "2651491402",
+                "latitude": 40.9606527,
+                "longitude": 115.4051458
+            },
+            {
+                "nodeid": "2651491404",
+                "latitude": 40.9611011,
+                "longitude": 115.4048155
+            },
+            {
+                "nodeid": "2651491406",
+                "latitude": 40.9614771,
+                "longitude": 115.4043558
+            },
+            {
+                "nodeid": "2651491408",
+                "latitude": 40.9620918,
+                "longitude": 115.4036136
+            },
+            {
+                "nodeid": "2651491409",
+                "latitude": 40.9637803,
+                "longitude": 115.4017175
+            },
+            {
+                "nodeid": "2651491411",
+                "latitude": 40.9644384,
+                "longitude": 115.4009179
+            },
+            {
+                "nodeid": "2651491413",
+                "latitude": 40.964912,
+                "longitude": 115.4005588
+            },
+            {
+                "nodeid": "2651491415",
+                "latitude": 40.9653604,
+                "longitude": 115.4005827
+            },
+            {
+                "nodeid": "2651491417",
+                "latitude": 40.965646,
+                "longitude": 115.4006545
+            },
+            {
+                "nodeid": "2651491419",
+                "latitude": 40.9658846,
+                "longitude": 115.4012195
+            },
+            {
+                "nodeid": "2651491421",
+                "latitude": 40.966022,
+                "longitude": 115.4014589
+            },
+            {
+                "nodeid": "2651491423",
+                "latitude": 40.9662172,
+                "longitude": 115.4015882
+            },
+            {
+                "nodeid": "2651491427",
+                "latitude": 40.9663076,
+                "longitude": 115.4014111
+            },
+            {
+                "nodeid": "2651491429",
+                "latitude": 40.9669403,
+                "longitude": 115.400396
+            },
+            {
+                "nodeid": "2651491432",
+                "latitude": 40.9671356,
+                "longitude": 115.3998741
+            },
+            {
+                "nodeid": "2651491435",
+                "latitude": 40.9672223,
+                "longitude": 115.3993043
+            },
+            {
+                "nodeid": "2651491446",
+                "latitude": 40.9674429,
+                "longitude": 115.3991558
+            },
+            {
+                "nodeid": "2651491457",
+                "latitude": 40.9675875,
+                "longitude": 115.3993474
+            },
+            {
+                "nodeid": "2651491469",
+                "latitude": 40.9678695,
+                "longitude": 115.3999938
+            },
+            {
+                "nodeid": "2651491474",
+                "latitude": 40.9679454,
+                "longitude": 115.400147
+            },
+            {
+                "nodeid": "2651491477",
+                "latitude": 40.968043,
+                "longitude": 115.4001757
+            },
+            {
+                "nodeid": "2651491480",
+                "latitude": 40.9681262,
+                "longitude": 115.4001278
+            },
+            {
+                "nodeid": "2651491483",
+                "latitude": 40.9682057,
+                "longitude": 115.3999698
+            },
+            {
+                "nodeid": "2651491486",
+                "latitude": 40.9683395,
+                "longitude": 115.3991223
+            },
+            {
+                "nodeid": "2651491488",
+                "latitude": 40.9684661,
+                "longitude": 115.3986339
+            },
+            {
+                "nodeid": "2651491494",
+                "latitude": 40.9686685,
+                "longitude": 115.398543
+            },
+            {
+                "nodeid": "2651491497",
+                "latitude": 40.9688095,
+                "longitude": 115.398677
+            },
+            {
+                "nodeid": "2651491500",
+                "latitude": 40.9689794,
+                "longitude": 115.3990314
+            },
+            {
+                "nodeid": "2651491502",
+                "latitude": 40.9690915,
+                "longitude": 115.3992947
+            },
+            {
+                "nodeid": "2651491504",
+                "latitude": 40.9692,
+                "longitude": 115.399333
+            },
+            {
+                "nodeid": "2651491507",
+                "latitude": 40.9693048,
+                "longitude": 115.3990888
+            },
+            {
+                "nodeid": "2651491510",
+                "latitude": 40.969435,
+                "longitude": 115.3984472
+            },
+            {
+                "nodeid": "2651491517",
+                "latitude": 40.9699628,
+                "longitude": 115.3973459
+            },
+            {
+                "nodeid": "2651491525",
+                "latitude": 40.9701833,
+                "longitude": 115.3964156
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "259702565",
+        "name": "银龙道 Silver Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530971",
+                "latitude": 40.9551127,
+                "longitude": 115.3950197
+            },
+            {
+                "nodeid": "2651530973",
+                "latitude": 40.9552749,
+                "longitude": 115.3945296
+            },
+            {
+                "nodeid": "2651530980",
+                "latitude": 40.9555871,
+                "longitude": 115.3942292
+            },
+            {
+                "nodeid": "2651530988",
+                "latitude": 40.9562445,
+                "longitude": 115.3938381
+            },
+            {
+                "nodeid": "2651530993",
+                "latitude": 40.9568892,
+                "longitude": 115.3935311
+            },
+            {
+                "nodeid": "2651531001",
+                "latitude": 40.9578611,
+                "longitude": 115.3932998
+            },
+            {
+                "nodeid": "2651531011",
+                "latitude": 40.9597222,
+                "longitude": 115.3927657
+            },
+            {
+                "nodeid": "6029107226",
+                "latitude": 40.9612605,
+                "longitude": 115.3920729
+            },
+            {
+                "nodeid": "4767405196",
+                "latitude": 40.9623106,
+                "longitude": 115.3921269
+            },
+            {
+                "nodeid": "4767405192",
+                "latitude": 40.9634503,
+                "longitude": 115.3922984
+            },
+            {
+                "nodeid": "4767405191",
+                "latitude": 40.9656255,
+                "longitude": 115.3921321
+            },
+            {
+                "nodeid": "4767405190",
+                "latitude": 40.9669496,
+                "longitude": 115.3920976
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "259702566",
+        "name": "腾龙道 Jumping Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530973",
+                "latitude": 40.9552749,
+                "longitude": 115.3945296
+            },
+            {
+                "nodeid": "2651530975",
+                "latitude": 40.9553655,
+                "longitude": 115.3940734
+            },
+            {
+                "nodeid": "2651530977",
+                "latitude": 40.9555317,
+                "longitude": 115.3936898
+            },
+            {
+                "nodeid": "2651530981",
+                "latitude": 40.9557877,
+                "longitude": 115.3933181
+            },
+            {
+                "nodeid": "2651530987",
+                "latitude": 40.9561156,
+                "longitude": 115.3930564
+            },
+            {
+                "nodeid": "2651530995",
+                "latitude": 40.9569159,
+                "longitude": 115.3926972
+            },
+            {
+                "nodeid": "2651531000",
+                "latitude": 40.9578243,
+                "longitude": 115.392428
+            },
+            {
+                "nodeid": "10743552601",
+                "latitude": 40.9585618,
+                "longitude": 115.3922119
+            },
+            {
+                "nodeid": "2651531008",
+                "latitude": 40.9594313,
+                "longitude": 115.391957
+            },
+            {
+                "nodeid": "2651531019",
+                "latitude": 40.960689,
+                "longitude": 115.3914524
+            },
+            {
+                "nodeid": "10743532159",
+                "latitude": 40.9612634,
+                "longitude": 115.391053
+            },
+            {
+                "nodeid": "2651531031",
+                "latitude": 40.9622133,
+                "longitude": 115.3903926
+            },
+            {
+                "nodeid": "2651531041",
+                "latitude": 40.963852,
+                "longitude": 115.3894001
+            },
+            {
+                "nodeid": "2651531049",
+                "latitude": 40.9655415,
+                "longitude": 115.3881048
+            },
+            {
+                "nodeid": "2651531053",
+                "latitude": 40.9668244,
+                "longitude": 115.3873478
+            },
+            {
+                "nodeid": "2651531062",
+                "latitude": 40.9676737,
+                "longitude": 115.3867739
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "259702567",
+        "name": "金龙道 Gold Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530959",
+                "latitude": 40.9542394,
+                "longitude": 115.397578
+            },
+            {
+                "nodeid": "2651530970",
+                "latitude": 40.9549998,
+                "longitude": 115.3978224
+            },
+            {
+                "nodeid": "2651530983",
+                "latitude": 40.9558525,
+                "longitude": 115.3980727
+            },
+            {
+                "nodeid": "2651530991",
+                "latitude": 40.9565162,
+                "longitude": 115.3981949
+            },
+            {
+                "nodeid": "2651554162",
+                "latitude": 40.9569477,
+                "longitude": 115.398174
+            },
+            {
+                "nodeid": "2651530998",
+                "latitude": 40.9574788,
+                "longitude": 115.3981483
+            },
+            {
+                "nodeid": "2651531007",
+                "latitude": 40.9590566,
+                "longitude": 115.3983637
+            },
+            {
+                "nodeid": "2651531017",
+                "latitude": 40.9605422,
+                "longitude": 115.3985848
+            },
+            {
+                "nodeid": "2651531025",
+                "latitude": 40.9614608,
+                "longitude": 115.3983171
+            },
+            {
+                "nodeid": "2651531033",
+                "latitude": 40.9623872,
+                "longitude": 115.3979904
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "259702568",
+        "name": "飞龙道 Flying Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530960",
+                "latitude": 40.9542521,
+                "longitude": 115.397067
+            },
+            {
+                "nodeid": "2651530966",
+                "latitude": 40.9546268,
+                "longitude": 115.3965
+            },
+            {
+                "nodeid": "2651530969",
+                "latitude": 40.9548888,
+                "longitude": 115.3956001
+            },
+            {
+                "nodeid": "2651530971",
+                "latitude": 40.9551127,
+                "longitude": 115.3950197
+            },
+            {
+                "nodeid": "2651530976",
+                "latitude": 40.95537,
+                "longitude": 115.3949314
+            },
+            {
+                "nodeid": "2651530978",
+                "latitude": 40.9555317,
+                "longitude": 115.3948583
+            },
+            {
+                "nodeid": "2651530989",
+                "latitude": 40.9564165,
+                "longitude": 115.3947928
+            },
+            {
+                "nodeid": "2651530994",
+                "latitude": 40.9569106,
+                "longitude": 115.394204
+            },
+            {
+                "nodeid": "2651531002",
+                "latitude": 40.9579796,
+                "longitude": 115.3941684
+            },
+            {
+                "nodeid": "2651531012",
+                "latitude": 40.9597313,
+                "longitude": 115.3939186
+            },
+            {
+                "nodeid": "2651531018",
+                "latitude": 40.9606295,
+                "longitude": 115.3939186
+            },
+            {
+                "nodeid": "6029107229",
+                "latitude": 40.9607777,
+                "longitude": 115.3939486
+            },
+            {
+                "nodeid": "2651531024",
+                "latitude": 40.9613931,
+                "longitude": 115.3940732
+            },
+            {
+                "nodeid": "2651531027",
+                "latitude": 40.9620824,
+                "longitude": 115.3943027
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "259702569",
+        "name": "风龙道 Wind Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531014",
+                "latitude": 40.9602002,
+                "longitude": 115.384665
+            },
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "259702570",
+        "name": "海龙道 Sea Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530965",
+                "latitude": 40.9546205,
+                "longitude": 115.3926296
+            },
+            {
+                "nodeid": "2651530968",
+                "latitude": 40.9547767,
+                "longitude": 115.3923876
+            },
+            {
+                "nodeid": "2651530974",
+                "latitude": 40.9553085,
+                "longitude": 115.3919976
+            },
+            {
+                "nodeid": "2651530985",
+                "latitude": 40.9560865,
+                "longitude": 115.3916193
+            },
+            {
+                "nodeid": "2651530992",
+                "latitude": 40.956526,
+                "longitude": 115.3914418
+            },
+            {
+                "nodeid": "2651530996",
+                "latitude": 40.9569699,
+                "longitude": 115.3913516
+            },
+            {
+                "nodeid": "2651530999",
+                "latitude": 40.9575194,
+                "longitude": 115.3913545
+            },
+            {
+                "nodeid": "2651531003",
+                "latitude": 40.958027,
+                "longitude": 115.3913196
+            },
+            {
+                "nodeid": "2651531005",
+                "latitude": 40.9585896,
+                "longitude": 115.3911246
+            },
+            {
+                "nodeid": "2651531006",
+                "latitude": 40.9588995,
+                "longitude": 115.3909849
+            },
+            {
+                "nodeid": "2651531013",
+                "latitude": 40.9594077,
+                "longitude": 115.390744
+            },
+            {
+                "nodeid": "10743552604",
+                "latitude": 40.9599331,
+                "longitude": 115.3901782
+            },
+            {
+                "nodeid": "2651531016",
+                "latitude": 40.9603432,
+                "longitude": 115.3897365
+            },
+            {
+                "nodeid": "2651531020",
+                "latitude": 40.9608487,
+                "longitude": 115.3891636
+            },
+            {
+                "nodeid": "2651531021",
+                "latitude": 40.9612091,
+                "longitude": 115.388116
+            },
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "259702571",
+        "name": "云龙道 Cloud Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651530958",
+                "latitude": 40.9541419,
+                "longitude": 115.3974117
+            },
+            {
+                "nodeid": "2651530960",
+                "latitude": 40.9542521,
+                "longitude": 115.397067
+            },
+            {
+                "nodeid": "2651530961",
+                "latitude": 40.954434,
+                "longitude": 115.3964981
+            },
+            {
+                "nodeid": "2651530963",
+                "latitude": 40.9545708,
+                "longitude": 115.3956256
+            },
+            {
+                "nodeid": "2651530962",
+                "latitude": 40.9545522,
+                "longitude": 115.3941688
+            },
+            {
+                "nodeid": "2651530965",
+                "latitude": 40.9546205,
+                "longitude": 115.3926296
+            },
+            {
+                "nodeid": "2651530964",
+                "latitude": 40.9545957,
+                "longitude": 115.3911728
+            },
+            {
+                "nodeid": "2651530967",
+                "latitude": 40.9547818,
+                "longitude": 115.3900318
+            },
+            {
+                "nodeid": "2651530972",
+                "latitude": 40.9551365,
+                "longitude": 115.389148
+            },
+            {
+                "nodeid": "4767405186",
+                "latitude": 40.9554159,
+                "longitude": 115.3882999
+            },
+            {
+                "nodeid": "5567330326",
+                "latitude": 40.9554547,
+                "longitude": 115.3881696
+            },
+            {
+                "nodeid": "2651530979",
+                "latitude": 40.955584,
+                "longitude": 115.3877899
+            },
+            {
+                "nodeid": "2651530982",
+                "latitude": 40.9558513,
+                "longitude": 115.3865718
+            },
+            {
+                "nodeid": "4767405178",
+                "latitude": 40.9558837,
+                "longitude": 115.3864577
+            },
+            {
+                "nodeid": "2651530986",
+                "latitude": 40.9560875,
+                "longitude": 115.3857405
+            },
+            {
+                "nodeid": "2651530990",
+                "latitude": 40.9564791,
+                "longitude": 115.3853948
+            },
+            {
+                "nodeid": "2651530997",
+                "latitude": 40.957281,
+                "longitude": 115.3851479
+            },
+            {
+                "nodeid": "2651531004",
+                "latitude": 40.9583004,
+                "longitude": 115.3845799
+            },
+            {
+                "nodeid": "2651531009",
+                "latitude": 40.9596554,
+                "longitude": 115.3846293
+            },
+            {
+                "nodeid": "2651531014",
+                "latitude": 40.9602002,
+                "longitude": 115.384665
+            },
+            {
+                "nodeid": "2651531015",
+                "latitude": 40.9602832,
+                "longitude": 115.3846705
+            },
+            {
+                "nodeid": "2651531026",
+                "latitude": 40.9616754,
+                "longitude": 115.3843906
+            },
+            {
+                "nodeid": "2651531038",
+                "latitude": 40.9631547,
+                "longitude": 115.3845306
+            },
+            {
+                "nodeid": "2651531048",
+                "latitude": 40.9654854,
+                "longitude": 115.3843659
+            },
+            {
+                "nodeid": "2651531051",
+                "latitude": 40.9662623,
+                "longitude": 115.3840038
+            },
+            {
+                "nodeid": "2651531054",
+                "latitude": 40.9669024,
+                "longitude": 115.383584
+            },
+            {
+                "nodeid": "2651531059",
+                "latitude": 40.9673787,
+                "longitude": 115.3831796
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "260231717",
+        "name": "magic_carpet",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2657158082",
+                "latitude": 40.9682799,
+                "longitude": 115.3926954
+            },
+            {
+                "nodeid": "2657158083",
+                "latitude": 40.9700127,
+                "longitude": 115.3949902
+            }
+        ],
+        "type": 1,
+        "subType": 2,
+        "difficulty": null
+    },
+    {
+        "wayid": "260257626",
+        "name": "station",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2657346558",
+                "latitude": 40.9674917,
+                "longitude": 115.3876516
+            },
+            {
+                "nodeid": "2657346556",
+                "latitude": 40.9674504,
+                "longitude": 115.3875346
+            },
+            {
+                "nodeid": "2657346548",
+                "latitude": 40.9673468,
+                "longitude": 115.3875987
+            },
+            {
+                "nodeid": "2657346550",
+                "latitude": 40.9673881,
+                "longitude": 115.3877157
+            },
+            {
+                "nodeid": "2657346558",
+                "latitude": 40.9674917,
+                "longitude": 115.3876516
+            }
+        ],
+        "type": 1,
+        "subType": 3,
+        "difficulty": null
+    },
+    {
+        "wayid": "483990509",
+        "name": "雪龙道 Snow Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "4767405178",
+                "latitude": 40.9558837,
+                "longitude": 115.3864577
+            },
+            {
+                "nodeid": "4767405177",
+                "latitude": 40.9565189,
+                "longitude": 115.3865746
+            },
+            {
+                "nodeid": "4767405176",
+                "latitude": 40.9576492,
+                "longitude": 115.3866872
+            },
+            {
+                "nodeid": "4767405175",
+                "latitude": 40.9580989,
+                "longitude": 115.3865799
+            },
+            {
+                "nodeid": "4767405174",
+                "latitude": 40.9587511,
+                "longitude": 115.3862366
+            },
+            {
+                "nodeid": "4767405173",
+                "latitude": 40.9591765,
+                "longitude": 115.3861722
+            },
+            {
+                "nodeid": "4767405172",
+                "latitude": 40.9596302,
+                "longitude": 115.3862903
+            },
+            {
+                "nodeid": "4767405171",
+                "latitude": 40.9600839,
+                "longitude": 115.3865853
+            },
+            {
+                "nodeid": "4767405170",
+                "latitude": 40.9607888,
+                "longitude": 115.3868321
+            },
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "483990510",
+        "name": "霜龙道 Frost Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "4767405186",
+                "latitude": 40.9554159,
+                "longitude": 115.3882999
+            },
+            {
+                "nodeid": "4767405185",
+                "latitude": 40.9575074,
+                "longitude": 115.3882483
+            },
+            {
+                "nodeid": "4767405184",
+                "latitude": 40.9586337,
+                "longitude": 115.3882268
+            },
+            {
+                "nodeid": "4767405183",
+                "latitude": 40.9593264,
+                "longitude": 115.3882268
+            },
+            {
+                "nodeid": "4767405182",
+                "latitude": 40.9597923,
+                "longitude": 115.3882483
+            },
+            {
+                "nodeid": "4767405181",
+                "latitude": 40.9601082,
+                "longitude": 115.3882
+            },
+            {
+                "nodeid": "4767405180",
+                "latitude": 40.9606632,
+                "longitude": 115.3877279
+            },
+            {
+                "nodeid": "4767405179",
+                "latitude": 40.9610359,
+                "longitude": 115.3873578
+            },
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "483990511",
+        "name": "海龙道 Sea Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            },
+            {
+                "nodeid": "2651531036",
+                "latitude": 40.9630374,
+                "longitude": 115.386789
+            },
+            {
+                "nodeid": "2651531040",
+                "latitude": 40.9638284,
+                "longitude": 115.3863933
+            },
+            {
+                "nodeid": "2651531044",
+                "latitude": 40.9644877,
+                "longitude": 115.386079
+            },
+            {
+                "nodeid": "2651531047",
+                "latitude": 40.9654282,
+                "longitude": 115.3858927
+            },
+            {
+                "nodeid": "2651531052",
+                "latitude": 40.9666059,
+                "longitude": 115.3853689
+            },
+            {
+                "nodeid": "2651531057",
+                "latitude": 40.9672739,
+                "longitude": 115.3851361
+            },
+            {
+                "nodeid": "2651531060",
+                "latitude": 40.9675785,
+                "longitude": 115.3849701
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "483990512",
+        "name": "炫龙道",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "4767405197",
+                "latitude": 40.962713,
+                "longitude": 115.3929153
+            },
+            {
+                "nodeid": "4767405189",
+                "latitude": 40.9631323,
+                "longitude": 115.3930441
+            },
+            {
+                "nodeid": "4767405188",
+                "latitude": 40.9642219,
+                "longitude": 115.3936985
+            },
+            {
+                "nodeid": "4767405187",
+                "latitude": 40.965214,
+                "longitude": 115.3943471
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "483990514",
+        "name": "猛龙道 Fierce Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531034",
+                "latitude": 40.9624471,
+                "longitude": 115.3912055
+            },
+            {
+                "nodeid": "4767405194",
+                "latitude": 40.9637986,
+                "longitude": 115.3912953
+            },
+            {
+                "nodeid": "4767405193",
+                "latitude": 40.9666483,
+                "longitude": 115.3911987
+            },
+            {
+                "nodeid": "2651531063",
+                "latitude": 40.9676075,
+                "longitude": 115.3913989
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "483990515",
+        "name": "酷龙道 Cool Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531032",
+                "latitude": 40.9622733,
+                "longitude": 115.3960716
+            },
+            {
+                "nodeid": "2651531035",
+                "latitude": 40.9625877,
+                "longitude": 115.3957028
+            },
+            {
+                "nodeid": "2651531039",
+                "latitude": 40.9636027,
+                "longitude": 115.3951794
+            },
+            {
+                "nodeid": "2651531045",
+                "latitude": 40.9647457,
+                "longitude": 115.3949028
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "483990516",
+        "name": "小龙道 Little Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "10743532159",
+                "latitude": 40.9612634,
+                "longitude": 115.391053
+            },
+            {
+                "nodeid": "4767405195",
+                "latitude": 40.9616831,
+                "longitude": 115.3917891
+            },
+            {
+                "nodeid": "6029107227",
+                "latitude": 40.9625105,
+                "longitude": 115.3925023
+            },
+            {
+                "nodeid": "4767405197",
+                "latitude": 40.962713,
+                "longitude": 115.3929153
+            },
+            {
+                "nodeid": "4767405198",
+                "latitude": 40.9626968,
+                "longitude": 115.3932908
+            },
+            {
+                "nodeid": "4767405199",
+                "latitude": 40.9624092,
+                "longitude": 115.393779
+            },
+            {
+                "nodeid": "2651531027",
+                "latitude": 40.9620824,
+                "longitude": 115.3943027
+            },
+            {
+                "nodeid": "2651531030",
+                "latitude": 40.9620891,
+                "longitude": 115.3949956
+            },
+            {
+                "nodeid": "2651531028",
+                "latitude": 40.9620218,
+                "longitude": 115.3958812
+            },
+            {
+                "nodeid": "2651531032",
+                "latitude": 40.9622733,
+                "longitude": 115.3960716
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "483990517",
+        "name": "中华龙道 Chinese Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651491413",
+                "latitude": 40.964912,
+                "longitude": 115.4005588
+            },
+            {
+                "nodeid": "4767405203",
+                "latitude": 40.9661724,
+                "longitude": 115.3992963
+            },
+            {
+                "nodeid": "4767405202",
+                "latitude": 40.967023,
+                "longitude": 115.3986204
+            },
+            {
+                "nodeid": "4767405201",
+                "latitude": 40.9686918,
+                "longitude": 115.397805
+            },
+            {
+                "nodeid": "4767405200",
+                "latitude": 40.9695829,
+                "longitude": 115.3971505
+            },
+            {
+                "nodeid": "2651491525",
+                "latitude": 40.9701833,
+                "longitude": 115.3964156
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "483990518",
+        "name": "玉龙道 Jade Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651491393",
+                "latitude": 40.9581867,
+                "longitude": 115.4054379
+            },
+            {
+                "nodeid": "4767405204",
+                "latitude": 40.958739,
+                "longitude": 115.4045373
+            },
+            {
+                "nodeid": "4767405205",
+                "latitude": 40.9597842,
+                "longitude": 115.4025257
+            },
+            {
+                "nodeid": "4767405206",
+                "latitude": 40.9618056,
+                "longitude": 115.3992802
+            },
+            {
+                "nodeid": "2651531033",
+                "latitude": 40.9623872,
+                "longitude": 115.3979904
+            },
+            {
+                "nodeid": "2651531037",
+                "latitude": 40.9631352,
+                "longitude": 115.3967864
+            },
+            {
+                "nodeid": "2651531043",
+                "latitude": 40.9644581,
+                "longitude": 115.3952441
+            },
+            {
+                "nodeid": "2651531045",
+                "latitude": 40.9647457,
+                "longitude": 115.3949028
+            },
+            {
+                "nodeid": "4767405187",
+                "latitude": 40.965214,
+                "longitude": 115.3943471
+            },
+            {
+                "nodeid": "2651531046",
+                "latitude": 40.9653458,
+                "longitude": 115.3941907
+            },
+            {
+                "nodeid": "2651531050",
+                "latitude": 40.9661325,
+                "longitude": 115.3929336
+            },
+            {
+                "nodeid": "4767405190",
+                "latitude": 40.9669496,
+                "longitude": 115.3920976
+            },
+            {
+                "nodeid": "2651531056",
+                "latitude": 40.9671564,
+                "longitude": 115.391886
+            },
+            {
+                "nodeid": "2651531063",
+                "latitude": 40.9676075,
+                "longitude": 115.3913989
+            },
+            {
+                "nodeid": "2651531064",
+                "latitude": 40.9677987,
+                "longitude": 115.3911474
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "483990519",
+        "name": "娇龙道 Delicate Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531064",
+                "latitude": 40.9677987,
+                "longitude": 115.3911474
+            },
+            {
+                "nodeid": "2651491466",
+                "latitude": 40.9677538,
+                "longitude": 115.3904941
+            },
+            {
+                "nodeid": "8174430293",
+                "latitude": 40.967728,
+                "longitude": 115.3903215
+            },
+            {
+                "nodeid": "2651491455",
+                "latitude": 40.9675405,
+                "longitude": 115.3890672
+            },
+            {
+                "nodeid": "2651531061",
+                "latitude": 40.9676619,
+                "longitude": 115.3877294
+            },
+            {
+                "nodeid": "2651491463",
+                "latitude": 40.9676887,
+                "longitude": 115.3874344
+            },
+            {
+                "nodeid": "2651531062",
+                "latitude": 40.9676737,
+                "longitude": 115.3867739
+            },
+            {
+                "nodeid": "2651491460",
+                "latitude": 40.9676454,
+                "longitude": 115.3855239
+            },
+            {
+                "nodeid": "2651531060",
+                "latitude": 40.9675785,
+                "longitude": 115.3849701
+            },
+            {
+                "nodeid": "2651491440",
+                "latitude": 40.9673814,
+                "longitude": 115.3833358
+            },
+            {
+                "nodeid": "2651531059",
+                "latitude": 40.9673787,
+                "longitude": 115.3831796
+            },
+            {
+                "nodeid": "2651491438",
+                "latitude": 40.9673561,
+                "longitude": 115.3818802
+            },
+            {
+                "nodeid": "2651491443",
+                "latitude": 40.9674212,
+                "longitude": 115.3811859
+            },
+            {
+                "nodeid": "2651491449",
+                "latitude": 40.967461,
+                "longitude": 115.3808603
+            },
+            {
+                "nodeid": "2651491452",
+                "latitude": 40.967479,
+                "longitude": 115.3806831
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "EASY"
+    },
+    {
+        "wayid": "483990521",
+        "name": "5索 Line 5",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "4767405210",
+                "latitude": 40.9670331,
+                "longitude": 115.3821302
+            },
+            {
+                "nodeid": "2657342435",
+                "latitude": 40.9547314,
+                "longitude": 115.3971062
+            }
+        ],
+        "type": 1,
+        "subType": 4,
+        "difficulty": null
+    },
+    {
+        "wayid": "533578599",
+        "name": "万龙滑雪场",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "5176353659",
+                "latitude": 40.9683328,
+                "longitude": 115.3775094
+            },
+            {
+                "nodeid": "5176353660",
+                "latitude": 40.9674625,
+                "longitude": 115.3706443
+            },
+            {
+                "nodeid": "6029114361",
+                "latitude": 40.9639348,
+                "longitude": 115.3701312
+            },
+            {
+                "nodeid": "5176353661",
+                "latitude": 40.9598546,
+                "longitude": 115.3708983
+            },
+            {
+                "nodeid": "5176353662",
+                "latitude": 40.9562595,
+                "longitude": 115.3741788
+            },
+            {
+                "nodeid": "5176353663",
+                "latitude": 40.9536979,
+                "longitude": 115.3774889
+            },
+            {
+                "nodeid": "5176353664",
+                "latitude": 40.9526537,
+                "longitude": 115.3836142
+            },
+            {
+                "nodeid": "5176353669",
+                "latitude": 40.9534725,
+                "longitude": 115.3861347
+            },
+            {
+                "nodeid": "5176353670",
+                "latitude": 40.9543803,
+                "longitude": 115.3873378
+            },
+            {
+                "nodeid": "5176353671",
+                "latitude": 40.9545015,
+                "longitude": 115.3890903
+            },
+            {
+                "nodeid": "5176353672",
+                "latitude": 40.9544124,
+                "longitude": 115.391794
+            },
+            {
+                "nodeid": "5176353673",
+                "latitude": 40.954299,
+                "longitude": 115.3939291
+            },
+            {
+                "nodeid": "5176353674",
+                "latitude": 40.9544124,
+                "longitude": 115.3955384
+            },
+            {
+                "nodeid": "5176353675",
+                "latitude": 40.9541045,
+                "longitude": 115.3964503
+            },
+            {
+                "nodeid": "5176353676",
+                "latitude": 40.9536507,
+                "longitude": 115.3973408
+            },
+            {
+                "nodeid": "5176353677",
+                "latitude": 40.9536021,
+                "longitude": 115.3985425
+            },
+            {
+                "nodeid": "5176353678",
+                "latitude": 40.953829,
+                "longitude": 115.3995939
+            },
+            {
+                "nodeid": "5176353679",
+                "latitude": 40.9546312,
+                "longitude": 115.4015251
+            },
+            {
+                "nodeid": "5176353680",
+                "latitude": 40.9563732,
+                "longitude": 115.4046793
+            },
+            {
+                "nodeid": "5176353681",
+                "latitude": 40.956908,
+                "longitude": 115.4047115
+            },
+            {
+                "nodeid": "5176353682",
+                "latitude": 40.9573614,
+                "longitude": 115.4049302
+            },
+            {
+                "nodeid": "5176353683",
+                "latitude": 40.9580966,
+                "longitude": 115.4054478
+            },
+            {
+                "nodeid": "5176353684",
+                "latitude": 40.9581804,
+                "longitude": 115.4054817
+            },
+            {
+                "nodeid": "5176353685",
+                "latitude": 40.9585969,
+                "longitude": 115.4055402
+            },
+            {
+                "nodeid": "5176353686",
+                "latitude": 40.9592065,
+                "longitude": 115.4055279
+            },
+            {
+                "nodeid": "5176353687",
+                "latitude": 40.9598114,
+                "longitude": 115.4053923
+            },
+            {
+                "nodeid": "5176353688",
+                "latitude": 40.9607421,
+                "longitude": 115.4052075
+            },
+            {
+                "nodeid": "5176357670",
+                "latitude": 40.9610278,
+                "longitude": 115.4050947
+            },
+            {
+                "nodeid": "5176353689",
+                "latitude": 40.9607161,
+                "longitude": 115.4054356
+            },
+            {
+                "nodeid": "7198891773",
+                "latitude": 40.9621071,
+                "longitude": 115.4080885
+            },
+            {
+                "nodeid": "5176353692",
+                "latitude": 40.9622654,
+                "longitude": 115.4098299
+            },
+            {
+                "nodeid": "5176353693",
+                "latitude": 40.9650768,
+                "longitude": 115.4054443
+            },
+            {
+                "nodeid": "5176353694",
+                "latitude": 40.9658378,
+                "longitude": 115.4069759
+            },
+            {
+                "nodeid": "5176353695",
+                "latitude": 40.9671095,
+                "longitude": 115.4082011
+            },
+            {
+                "nodeid": "5176353696",
+                "latitude": 40.9711115,
+                "longitude": 115.4081097
+            },
+            {
+                "nodeid": "5176353697",
+                "latitude": 40.9703923,
+                "longitude": 115.4055986
+            },
+            {
+                "nodeid": "5176353698",
+                "latitude": 40.969804,
+                "longitude": 115.4024651
+            },
+            {
+                "nodeid": "5176353699",
+                "latitude": 40.9700957,
+                "longitude": 115.4012528
+            },
+            {
+                "nodeid": "5176353700",
+                "latitude": 40.9706627,
+                "longitude": 115.398077
+            },
+            {
+                "nodeid": "5176353701",
+                "latitude": 40.9709057,
+                "longitude": 115.3959742
+            },
+            {
+                "nodeid": "5176353702",
+                "latitude": 40.9713108,
+                "longitude": 115.3954699
+            },
+            {
+                "nodeid": "5176353703",
+                "latitude": 40.9722504,
+                "longitude": 115.395545
+            },
+            {
+                "nodeid": "5176353704",
+                "latitude": 40.9722261,
+                "longitude": 115.3950515
+            },
+            {
+                "nodeid": "5176353705",
+                "latitude": 40.9712946,
+                "longitude": 115.3945687
+            },
+            {
+                "nodeid": "5176353706",
+                "latitude": 40.9708976,
+                "longitude": 115.3939572
+            },
+            {
+                "nodeid": "5176353707",
+                "latitude": 40.9702577,
+                "longitude": 115.3933456
+            },
+            {
+                "nodeid": "5176353708",
+                "latitude": 40.9697797,
+                "longitude": 115.3930345
+            },
+            {
+                "nodeid": "5176353709",
+                "latitude": 40.9690506,
+                "longitude": 115.3921011
+            },
+            {
+                "nodeid": "5176353710",
+                "latitude": 40.9688643,
+                "longitude": 115.3906527
+            },
+            {
+                "nodeid": "5176353711",
+                "latitude": 40.9687023,
+                "longitude": 115.3899231
+            },
+            {
+                "nodeid": "5176353712",
+                "latitude": 40.9680704,
+                "longitude": 115.3882601
+            },
+            {
+                "nodeid": "5176353713",
+                "latitude": 40.9681271,
+                "longitude": 115.3864362
+            },
+            {
+                "nodeid": "5176353714",
+                "latitude": 40.9678922,
+                "longitude": 115.3840544
+            },
+            {
+                "nodeid": "5176353715",
+                "latitude": 40.9676978,
+                "longitude": 115.3818872
+            },
+            {
+                "nodeid": "5176353716",
+                "latitude": 40.9677788,
+                "longitude": 115.3803959
+            },
+            {
+                "nodeid": "5176353659",
+                "latitude": 40.9683328,
+                "longitude": 115.3775094
+            }
+        ],
+        "type": 3,
+        "subType": null,
+        "difficulty": null
+    },
+    {
+        "wayid": "582002977",
+        "name": "7号",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "5567330325",
+                "latitude": 40.9664412,
+                "longitude": 115.3723722
+            },
+            {
+                "nodeid": "5567330324",
+                "latitude": 40.9549627,
+                "longitude": 115.3875268
+            }
+        ],
+        "type": 1,
+        "subType": 4,
+        "difficulty": null
+    },
+    {
+        "wayid": "582002978",
+        "name": "五彩龙道",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "5567330326",
+                "latitude": 40.9554547,
+                "longitude": 115.3881696
+            },
+            {
+                "nodeid": "5567330327",
+                "latitude": 40.9554821,
+                "longitude": 115.3866942
+            },
+            {
+                "nodeid": "5567330328",
+                "latitude": 40.9552558,
+                "longitude": 115.3848123
+            },
+            {
+                "nodeid": "6029107230",
+                "latitude": 40.9552244,
+                "longitude": 115.384681
+            },
+            {
+                "nodeid": "5567330329",
+                "latitude": 40.9549913,
+                "longitude": 115.3837063
+            },
+            {
+                "nodeid": "6029025987",
+                "latitude": 40.9549218,
+                "longitude": 115.3831879
+            },
+            {
+                "nodeid": "5567330330",
+                "latitude": 40.9549631,
+                "longitude": 115.3825717
+            },
+            {
+                "nodeid": "6029025986",
+                "latitude": 40.9571003,
+                "longitude": 115.3793535
+            },
+            {
+                "nodeid": "5567330331",
+                "latitude": 40.9579564,
+                "longitude": 115.3787173
+            },
+            {
+                "nodeid": "5567330332",
+                "latitude": 40.9586869,
+                "longitude": 115.3779205
+            },
+            {
+                "nodeid": "6029025985",
+                "latitude": 40.959406,
+                "longitude": 115.3772265
+            },
+            {
+                "nodeid": "5567330333",
+                "latitude": 40.9601365,
+                "longitude": 115.3767679
+            },
+            {
+                "nodeid": "6029024984",
+                "latitude": 40.9607931,
+                "longitude": 115.3762999
+            },
+            {
+                "nodeid": "5567330334",
+                "latitude": 40.9627023,
+                "longitude": 115.3762427
+            },
+            {
+                "nodeid": "8207765773",
+                "latitude": 40.9629827,
+                "longitude": 115.3762312
+            },
+            {
+                "nodeid": "8207765772",
+                "latitude": 40.9633059,
+                "longitude": 115.3761208
+            },
+            {
+                "nodeid": "8207765771",
+                "latitude": 40.9634852,
+                "longitude": 115.375977
+            },
+            {
+                "nodeid": "8207765770",
+                "latitude": 40.9637683,
+                "longitude": 115.3759755
+            },
+            {
+                "nodeid": "8207765769",
+                "latitude": 40.9639621,
+                "longitude": 115.3760877
+            },
+            {
+                "nodeid": "8207765768",
+                "latitude": 40.9640932,
+                "longitude": 115.3762846
+            },
+            {
+                "nodeid": "8207765767",
+                "latitude": 40.9641452,
+                "longitude": 115.3765072
+            },
+            {
+                "nodeid": "8207765766",
+                "latitude": 40.9641202,
+                "longitude": 115.3767423
+            },
+            {
+                "nodeid": "8207765765",
+                "latitude": 40.9640362,
+                "longitude": 115.3771386
+            },
+            {
+                "nodeid": "8207765764",
+                "latitude": 40.9638816,
+                "longitude": 115.3775636
+            },
+            {
+                "nodeid": "8207765763",
+                "latitude": 40.9637068,
+                "longitude": 115.3779895
+            },
+            {
+                "nodeid": "8207765762",
+                "latitude": 40.9636295,
+                "longitude": 115.3781964
+            },
+            {
+                "nodeid": "6029107237",
+                "latitude": 40.9636867,
+                "longitude": 115.3784051
+            },
+            {
+                "nodeid": "8207765761",
+                "latitude": 40.9638105,
+                "longitude": 115.3783558
+            },
+            {
+                "nodeid": "8207765760",
+                "latitude": 40.9640318,
+                "longitude": 115.3782487
+            },
+            {
+                "nodeid": "8207765759",
+                "latitude": 40.9643779,
+                "longitude": 115.3782268
+            },
+            {
+                "nodeid": "8207765758",
+                "latitude": 40.9647491,
+                "longitude": 115.378102
+            },
+            {
+                "nodeid": "8207765757",
+                "latitude": 40.9651194,
+                "longitude": 115.3779936
+            },
+            {
+                "nodeid": "8207765756",
+                "latitude": 40.9654636,
+                "longitude": 115.3779243
+            },
+            {
+                "nodeid": "8207765755",
+                "latitude": 40.9658537,
+                "longitude": 115.3777502
+            },
+            {
+                "nodeid": "8207765754",
+                "latitude": 40.9661595,
+                "longitude": 115.3777137
+            },
+            {
+                "nodeid": "8207765753",
+                "latitude": 40.9663886,
+                "longitude": 115.3777599
+            },
+            {
+                "nodeid": "8207765752",
+                "latitude": 40.9665196,
+                "longitude": 115.3778804
+            },
+            {
+                "nodeid": "8207765751",
+                "latitude": 40.966693,
+                "longitude": 115.3782862
+            },
+            {
+                "nodeid": "8207765750",
+                "latitude": 40.9668079,
+                "longitude": 115.3788477
+            },
+            {
+                "nodeid": "8207765749",
+                "latitude": 40.9669073,
+                "longitude": 115.3794357
+            },
+            {
+                "nodeid": "8207765748",
+                "latitude": 40.9669457,
+                "longitude": 115.3799013
+            },
+            {
+                "nodeid": "8207765747",
+                "latitude": 40.9670041,
+                "longitude": 115.3802032
+            },
+            {
+                "nodeid": "6029024983",
+                "latitude": 40.9673185,
+                "longitude": 115.3804768
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "639930437",
+        "name": "威龙道 Power Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "6029107226",
+                "latitude": 40.9612605,
+                "longitude": 115.3920729
+            },
+            {
+                "nodeid": "4767405195",
+                "latitude": 40.9616831,
+                "longitude": 115.3917891
+            },
+            {
+                "nodeid": "2651531034",
+                "latitude": 40.9624471,
+                "longitude": 115.3912055
+            },
+            {
+                "nodeid": "2651531042",
+                "latitude": 40.9643779,
+                "longitude": 115.3901288
+            },
+            {
+                "nodeid": "2651531055",
+                "latitude": 40.9670708,
+                "longitude": 115.3881775
+            },
+            {
+                "nodeid": "2651531061",
+                "latitude": 40.9676619,
+                "longitude": 115.3877294
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "639930438",
+        "name": "祥龙道 Lucky Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2657342435",
+                "latitude": 40.9547314,
+                "longitude": 115.3971062
+            },
+            {
+                "nodeid": "8088989550",
+                "latitude": 40.9582286,
+                "longitude": 115.3953175
+            },
+            {
+                "nodeid": "8088989554",
+                "latitude": 40.9586922,
+                "longitude": 115.3950686
+            },
+            {
+                "nodeid": "6029107229",
+                "latitude": 40.9607777,
+                "longitude": 115.3939486
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "639930439",
+        "name": "绿龙道 Green Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "6029107230",
+                "latitude": 40.9552244,
+                "longitude": 115.384681
+            },
+            {
+                "nodeid": "6029107231",
+                "latitude": 40.9558637,
+                "longitude": 115.3832689
+            },
+            {
+                "nodeid": "6029107232",
+                "latitude": 40.956786,
+                "longitude": 115.3827004
+            },
+            {
+                "nodeid": "6029107233",
+                "latitude": 40.9578275,
+                "longitude": 115.3818372
+            },
+            {
+                "nodeid": "6029107234",
+                "latitude": 40.9611348,
+                "longitude": 115.3793316
+            },
+            {
+                "nodeid": "6029107235",
+                "latitude": 40.9619616,
+                "longitude": 115.3789736
+            },
+            {
+                "nodeid": "6029107236",
+                "latitude": 40.9623511,
+                "longitude": 115.3789526
+            },
+            {
+                "nodeid": "6029107237",
+                "latitude": 40.9636867,
+                "longitude": 115.3784051
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "639930440",
+        "name": "黄龙道 Yellow Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "5567330334",
+                "latitude": 40.9627023,
+                "longitude": 115.3762427
+            },
+            {
+                "nodeid": "6029024982",
+                "latitude": 40.9638246,
+                "longitude": 115.3749144
+            },
+            {
+                "nodeid": "6029024981",
+                "latitude": 40.9644671,
+                "longitude": 115.3744723
+            },
+            {
+                "nodeid": "6029024980",
+                "latitude": 40.9647729,
+                "longitude": 115.3738111
+            },
+            {
+                "nodeid": "6029024979",
+                "latitude": 40.9654443,
+                "longitude": 115.3732268
+            },
+            {
+                "nodeid": "6029024978",
+                "latitude": 40.9656174,
+                "longitude": 115.3725386
+            },
+            {
+                "nodeid": "8207765774",
+                "latitude": 40.9656086,
+                "longitude": 115.3722789
+            },
+            {
+                "nodeid": "6029024977",
+                "latitude": 40.9658197,
+                "longitude": 115.3720204
+            },
+            {
+                "nodeid": "5567330335",
+                "latitude": 40.9663703,
+                "longitude": 115.3718519
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "639931083",
+        "name": "1索/2索 Line 1/2",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "6029111409",
+                "latitude": 40.9675574,
+                "longitude": 115.3904932
+            },
+            {
+                "nodeid": "8088989536",
+                "latitude": 40.9659045,
+                "longitude": 115.3913624
+            },
+            {
+                "nodeid": "8088989538",
+                "latitude": 40.9656799,
+                "longitude": 115.3914806
+            },
+            {
+                "nodeid": "8088989537",
+                "latitude": 40.9655864,
+                "longitude": 115.3915297
+            },
+            {
+                "nodeid": "8088989535",
+                "latitude": 40.9652682,
+                "longitude": 115.3916971
+            },
+            {
+                "nodeid": "8088989545",
+                "latitude": 40.9651162,
+                "longitude": 115.391777
+            },
+            {
+                "nodeid": "8088989543",
+                "latitude": 40.9636123,
+                "longitude": 115.3925679
+            },
+            {
+                "nodeid": "8088989539",
+                "latitude": 40.9633823,
+                "longitude": 115.3926888
+            },
+            {
+                "nodeid": "8088989551",
+                "latitude": 40.9584324,
+                "longitude": 115.3952917
+            },
+            {
+                "nodeid": "8088989552",
+                "latitude": 40.9560153,
+                "longitude": 115.3965362
+            },
+            {
+                "nodeid": "8088989553",
+                "latitude": 40.9547485,
+                "longitude": 115.3972125
+            }
+        ],
+        "type": 1,
+        "subType": 4,
+        "difficulty": null
+    },
+    {
+        "wayid": "771169386",
+        "name": "长龙道 Long Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651491402",
+                "latitude": 40.9606527,
+                "longitude": 115.4051458
+            },
+            {
+                "nodeid": "8174438418",
+                "latitude": 40.9610515,
+                "longitude": 115.4055624
+            },
+            {
+                "nodeid": "7198891770",
+                "latitude": 40.9612801,
+                "longitude": 115.4060111
+            },
+            {
+                "nodeid": "7198891771",
+                "latitude": 40.9616609,
+                "longitude": 115.4068587
+            },
+            {
+                "nodeid": "7198891772",
+                "latitude": 40.9620137,
+                "longitude": 115.407599
+            },
+            {
+                "nodeid": "7198891773",
+                "latitude": 40.9621071,
+                "longitude": 115.4080885
+            },
+            {
+                "nodeid": "8174438419",
+                "latitude": 40.9623833,
+                "longitude": 115.4081692
+            },
+            {
+                "nodeid": "9511158242",
+                "latitude": 40.9627242,
+                "longitude": 115.4082499
+            },
+            {
+                "nodeid": "9511158241",
+                "latitude": 40.9629366,
+                "longitude": 115.4077312
+            },
+            {
+                "nodeid": "9511158240",
+                "latitude": 40.9637928,
+                "longitude": 115.4060028
+            },
+            {
+                "nodeid": "9511158239",
+                "latitude": 40.9641765,
+                "longitude": 115.4051081
+            },
+            {
+                "nodeid": "9511158238",
+                "latitude": 40.9647909,
+                "longitude": 115.4035903
+            },
+            {
+                "nodeid": "9511158237",
+                "latitude": 40.9651934,
+                "longitude": 115.402894
+            },
+            {
+                "nodeid": "9511158236",
+                "latitude": 40.9652609,
+                "longitude": 115.4027831
+            },
+            {
+                "nodeid": "9511158235",
+                "latitude": 40.9654142,
+                "longitude": 115.4027588
+            },
+            {
+                "nodeid": "9511158234",
+                "latitude": 40.9654935,
+                "longitude": 115.4034948
+            },
+            {
+                "nodeid": "9511158233",
+                "latitude": 40.9656463,
+                "longitude": 115.4043586
+            },
+            {
+                "nodeid": "9511158232",
+                "latitude": 40.9659642,
+                "longitude": 115.4053733
+            },
+            {
+                "nodeid": "9511158231",
+                "latitude": 40.9661635,
+                "longitude": 115.4057287
+            },
+            {
+                "nodeid": "9511158230",
+                "latitude": 40.966413,
+                "longitude": 115.4059509
+            },
+            {
+                "nodeid": "9511158229",
+                "latitude": 40.9666499,
+                "longitude": 115.4059635
+            },
+            {
+                "nodeid": "9511158228",
+                "latitude": 40.9672711,
+                "longitude": 115.4057487
+            },
+            {
+                "nodeid": "9511158227",
+                "latitude": 40.9675501,
+                "longitude": 115.4057347
+            },
+            {
+                "nodeid": "9511158226",
+                "latitude": 40.9678461,
+                "longitude": 115.4057796
+            },
+            {
+                "nodeid": "9511158225",
+                "latitude": 40.9682806,
+                "longitude": 115.4062462
+            },
+            {
+                "nodeid": "9511158224",
+                "latitude": 40.9684517,
+                "longitude": 115.4065193
+            },
+            {
+                "nodeid": "9511158223",
+                "latitude": 40.968585,
+                "longitude": 115.4069228
+            },
+            {
+                "nodeid": "9511158222",
+                "latitude": 40.9687217,
+                "longitude": 115.4073089
+            },
+            {
+                "nodeid": "9511158221",
+                "latitude": 40.9688485,
+                "longitude": 115.407448
+            },
+            {
+                "nodeid": "9511158219",
+                "latitude": 40.969066,
+                "longitude": 115.4074723
+            },
+            {
+                "nodeid": "9511158218",
+                "latitude": 40.9692418,
+                "longitude": 115.4074516
+            },
+            {
+                "nodeid": "9511158220",
+                "latitude": 40.9695333,
+                "longitude": 115.4074236
+            },
+            {
+                "nodeid": "9511158217",
+                "latitude": 40.9698207,
+                "longitude": 115.4075002
+            },
+            {
+                "nodeid": "9511144616",
+                "latitude": 40.9700766,
+                "longitude": 115.4075988
+            },
+            {
+                "nodeid": "9511144614",
+                "latitude": 40.9703702,
+                "longitude": 115.4076594
+            },
+            {
+                "nodeid": "9511144615",
+                "latitude": 40.9705187,
+                "longitude": 115.4076298
+            },
+            {
+                "nodeid": "9511144613",
+                "latitude": 40.9705839,
+                "longitude": 115.4075253
+            },
+            {
+                "nodeid": "9511144612",
+                "latitude": 40.9705692,
+                "longitude": 115.4072791
+            },
+            {
+                "nodeid": "9511144611",
+                "latitude": 40.9703953,
+                "longitude": 115.4069641
+            },
+            {
+                "nodeid": "9511144591",
+                "latitude": 40.970178,
+                "longitude": 115.4067125
+            },
+            {
+                "nodeid": "9511144610",
+                "latitude": 40.9700503,
+                "longitude": 115.406392
+            },
+            {
+                "nodeid": "9511144609",
+                "latitude": 40.9699288,
+                "longitude": 115.4054231
+            },
+            {
+                "nodeid": "9511144607",
+                "latitude": 40.9696328,
+                "longitude": 115.4041733
+            },
+            {
+                "nodeid": "7198891778",
+                "latitude": 40.969493,
+                "longitude": 115.4036562
+            },
+            {
+                "nodeid": "9511144592",
+                "latitude": 40.9692409,
+                "longitude": 115.4021967
+            },
+            {
+                "nodeid": "9511144608",
+                "latitude": 40.9692096,
+                "longitude": 115.4011018
+            },
+            {
+                "nodeid": "9511144593",
+                "latitude": 40.9693038,
+                "longitude": 115.4001464
+            },
+            {
+                "nodeid": "9511144594",
+                "latitude": 40.969656,
+                "longitude": 115.3989917
+            },
+            {
+                "nodeid": "7198891782",
+                "latitude": 40.9701349,
+                "longitude": 115.3971598
+            },
+            {
+                "nodeid": "2651491525",
+                "latitude": 40.9701833,
+                "longitude": 115.3964156
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "EASY"
+    },
+    {
+        "wayid": "771169387",
+        "name": "短龙道 Short Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "7198891770",
+                "latitude": 40.9612801,
+                "longitude": 115.4060111
+            },
+            {
+                "nodeid": "8174430316",
+                "latitude": 40.9613206,
+                "longitude": 115.4059253
+            },
+            {
+                "nodeid": "7198891784",
+                "latitude": 40.9615799,
+                "longitude": 115.4057858
+            },
+            {
+                "nodeid": "7198966985",
+                "latitude": 40.9617015,
+                "longitude": 115.4055605
+            },
+            {
+                "nodeid": "7198966986",
+                "latitude": 40.9619201,
+                "longitude": 115.4052386
+            },
+            {
+                "nodeid": "7198966987",
+                "latitude": 40.9621552,
+                "longitude": 115.4047881
+            },
+            {
+                "nodeid": "8174430315",
+                "latitude": 40.9622109,
+                "longitude": 115.4046141
+            },
+            {
+                "nodeid": "7198966988",
+                "latitude": 40.9623172,
+                "longitude": 115.4046378
+            },
+            {
+                "nodeid": "8174430314",
+                "latitude": 40.9625082,
+                "longitude": 115.4048126
+            },
+            {
+                "nodeid": "8174430313",
+                "latitude": 40.9626823,
+                "longitude": 115.4050325
+            },
+            {
+                "nodeid": "7198966989",
+                "latitude": 40.9627952,
+                "longitude": 115.4049168
+            },
+            {
+                "nodeid": "7198966990",
+                "latitude": 40.9629005,
+                "longitude": 115.4046057
+            },
+            {
+                "nodeid": "8174430312",
+                "latitude": 40.9630544,
+                "longitude": 115.4043589
+            },
+            {
+                "nodeid": "7198966991",
+                "latitude": 40.9632164,
+                "longitude": 115.4041336
+            },
+            {
+                "nodeid": "7198966992",
+                "latitude": 40.9635243,
+                "longitude": 115.4037473
+            },
+            {
+                "nodeid": "7198966993",
+                "latitude": 40.9637025,
+                "longitude": 115.4032538
+            },
+            {
+                "nodeid": "7198966994",
+                "latitude": 40.963816,
+                "longitude": 115.402889
+            },
+            {
+                "nodeid": "7198966995",
+                "latitude": 40.9639456,
+                "longitude": 115.4023955
+            },
+            {
+                "nodeid": "7198966996",
+                "latitude": 40.964059,
+                "longitude": 115.4022882
+            },
+            {
+                "nodeid": "7198966997",
+                "latitude": 40.9641886,
+                "longitude": 115.402138
+            },
+            {
+                "nodeid": "7198966998",
+                "latitude": 40.9643183,
+                "longitude": 115.4019985
+            },
+            {
+                "nodeid": "7198966999",
+                "latitude": 40.9644803,
+                "longitude": 115.401741
+            },
+            {
+                "nodeid": "7198967000",
+                "latitude": 40.9647233,
+                "longitude": 115.4014514
+            },
+            {
+                "nodeid": "7198967001",
+                "latitude": 40.964853,
+                "longitude": 115.4010651
+            },
+            {
+                "nodeid": "7198967002",
+                "latitude": 40.9649016,
+                "longitude": 115.4008505
+            },
+            {
+                "nodeid": "7198967003",
+                "latitude": 40.9649988,
+                "longitude": 115.4008076
+            },
+            {
+                "nodeid": "7198967004",
+                "latitude": 40.9651122,
+                "longitude": 115.4009364
+            },
+            {
+                "nodeid": "7198967005",
+                "latitude": 40.9652418,
+                "longitude": 115.4017518
+            },
+            {
+                "nodeid": "9511158235",
+                "latitude": 40.9654142,
+                "longitude": 115.4027588
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": null
+    },
+    {
+        "wayid": "846769091",
+        "name": "gondola",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "7900669514",
+                "latitude": 40.946148,
+                "longitude": 115.3712615
+            },
+            {
+                "nodeid": "8937862214",
+                "latitude": 40.9463174,
+                "longitude": 115.3712321
+            },
+            {
+                "nodeid": "8937862213",
+                "latitude": 40.9480415,
+                "longitude": 115.3709444
+            },
+            {
+                "nodeid": "8937862212",
+                "latitude": 40.9496856,
+                "longitude": 115.3706809
+            },
+            {
+                "nodeid": "8937862211",
+                "latitude": 40.9512465,
+                "longitude": 115.3704202
+            },
+            {
+                "nodeid": "8937862210",
+                "latitude": 40.9524998,
+                "longitude": 115.3702136
+            },
+            {
+                "nodeid": "8937862209",
+                "latitude": 40.9536674,
+                "longitude": 115.3700088
+            },
+            {
+                "nodeid": "8937862208",
+                "latitude": 40.954307,
+                "longitude": 115.3699189
+            },
+            {
+                "nodeid": "8937862207",
+                "latitude": 40.9566716,
+                "longitude": 115.3695154
+            },
+            {
+                "nodeid": "8937862206",
+                "latitude": 40.9571436,
+                "longitude": 115.3694353
+            },
+            {
+                "nodeid": "8937862205",
+                "latitude": 40.9580431,
+                "longitude": 115.3692843
+            },
+            {
+                "nodeid": "8937862204",
+                "latitude": 40.9606168,
+                "longitude": 115.3688393
+            },
+            {
+                "nodeid": "8937862203",
+                "latitude": 40.9612324,
+                "longitude": 115.3687308
+            },
+            {
+                "nodeid": "8937862202",
+                "latitude": 40.9621867,
+                "longitude": 115.3685851
+            },
+            {
+                "nodeid": "8937862201",
+                "latitude": 40.9645919,
+                "longitude": 115.3681362
+            },
+            {
+                "nodeid": "8937862200",
+                "latitude": 40.9659072,
+                "longitude": 115.3679122
+            },
+            {
+                "nodeid": "7900669513",
+                "latitude": 40.9665685,
+                "longitude": 115.3678606
+            }
+        ],
+        "type": 1,
+        "subType": 4,
+        "difficulty": null
+    },
+    {
+        "wayid": "878706030",
+        "name": "雨龙道",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651531022",
+                "latitude": 40.9612706,
+                "longitude": 115.3871731
+            },
+            {
+                "nodeid": "2657337105",
+                "latitude": 40.9616163,
+                "longitude": 115.3872502
+            },
+            {
+                "nodeid": "8174430278",
+                "latitude": 40.9619135,
+                "longitude": 115.3873361
+            },
+            {
+                "nodeid": "8174430279",
+                "latitude": 40.9624968,
+                "longitude": 115.3872931
+            },
+            {
+                "nodeid": "8174430280",
+                "latitude": 40.9634366,
+                "longitude": 115.3871751
+            },
+            {
+                "nodeid": "8174430281",
+                "latitude": 40.9640118,
+                "longitude": 115.3871537
+            },
+            {
+                "nodeid": "8174430282",
+                "latitude": 40.9647086,
+                "longitude": 115.3872502
+            },
+            {
+                "nodeid": "8174430283",
+                "latitude": 40.9650326,
+                "longitude": 115.3872609
+            },
+            {
+                "nodeid": "8174430284",
+                "latitude": 40.9654134,
+                "longitude": 115.387379
+            },
+            {
+                "nodeid": "8174430285",
+                "latitude": 40.9656842,
+                "longitude": 115.3877255
+            },
+            {
+                "nodeid": "8174430286",
+                "latitude": 40.9659319,
+                "longitude": 115.3880549
+            },
+            {
+                "nodeid": "8174430288",
+                "latitude": 40.966499,
+                "longitude": 115.3889346
+            },
+            {
+                "nodeid": "8174430289",
+                "latitude": 40.9668959,
+                "longitude": 115.389396
+            },
+            {
+                "nodeid": "8174430290",
+                "latitude": 40.9671471,
+                "longitude": 115.3897822
+            },
+            {
+                "nodeid": "8174430291",
+                "latitude": 40.9673253,
+                "longitude": 115.3900719
+            },
+            {
+                "nodeid": "8174430292",
+                "latitude": 40.9675695,
+                "longitude": 115.3902541
+            },
+            {
+                "nodeid": "8174430293",
+                "latitude": 40.967728,
+                "longitude": 115.3903215
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "878706033",
+        "name": "恐龙道 Dinosaurs Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "8174430297",
+                "latitude": 40.9544807,
+                "longitude": 115.3973862
+            },
+            {
+                "nodeid": "8174430298",
+                "latitude": 40.9547672,
+                "longitude": 115.3973287
+            },
+            {
+                "nodeid": "8174430299",
+                "latitude": 40.9555604,
+                "longitude": 115.3972199
+            },
+            {
+                "nodeid": "8174430300",
+                "latitude": 40.9564111,
+                "longitude": 115.3970912
+            },
+            {
+                "nodeid": "8174430301",
+                "latitude": 40.9573267,
+                "longitude": 115.3969732
+            },
+            {
+                "nodeid": "8174430302",
+                "latitude": 40.9582666,
+                "longitude": 115.3968551
+            },
+            {
+                "nodeid": "8174430303",
+                "latitude": 40.9588743,
+                "longitude": 115.3968015
+            },
+            {
+                "nodeid": "8174430304",
+                "latitude": 40.9593361,
+                "longitude": 115.3966727
+            },
+            {
+                "nodeid": "8174430305",
+                "latitude": 40.9595953,
+                "longitude": 115.3965118
+            },
+            {
+                "nodeid": "8174430306",
+                "latitude": 40.9598141,
+                "longitude": 115.3963831
+            },
+            {
+                "nodeid": "8174430307",
+                "latitude": 40.9601787,
+                "longitude": 115.3963402
+            },
+            {
+                "nodeid": "8174430308",
+                "latitude": 40.9605109,
+                "longitude": 115.3964153
+            },
+            {
+                "nodeid": "2657342478",
+                "latitude": 40.9609726,
+                "longitude": 115.3964135
+            },
+            {
+                "nodeid": "8174430309",
+                "latitude": 40.9613697,
+                "longitude": 115.3964582
+            },
+            {
+                "nodeid": "8174430310",
+                "latitude": 40.9617181,
+                "longitude": 115.3964153
+            },
+            {
+                "nodeid": "8174430311",
+                "latitude": 40.9619206,
+                "longitude": 115.3962114
+            },
+            {
+                "nodeid": "2651531028",
+                "latitude": 40.9620218,
+                "longitude": 115.3958812
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "ADVANCED"
+    },
+    {
+        "wayid": "1155259832",
+        "name": "卧龙道 Sleeping Dragon",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "2651491525",
+                "latitude": 40.9701833,
+                "longitude": 115.3964156
+            },
+            {
+                "nodeid": "2651491522",
+                "latitude": 40.9701725,
+                "longitude": 115.395603
+            },
+            {
+                "nodeid": "2651491519",
+                "latitude": 40.9701544,
+                "longitude": 115.3950428
+            },
+            {
+                "nodeid": "2651491514",
+                "latitude": 40.9695868,
+                "longitude": 115.3940948
+            },
+            {
+                "nodeid": "2651491491",
+                "latitude": 40.9684697,
+                "longitude": 115.3925961
+            },
+            {
+                "nodeid": "2651491471",
+                "latitude": 40.9679093,
+                "longitude": 115.3919401
+            },
+            {
+                "nodeid": "2651531064",
+                "latitude": 40.9677987,
+                "longitude": 115.3911474
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": "INTERMEDIATE"
+    },
+    {
+        "wayid": "1155263102",
+        "name": "逸龙道",
+        "resortId": "114690488838606848",
+        "nodes":
+        [
+            {
+                "nodeid": "10743552601",
+                "latitude": 40.9585618,
+                "longitude": 115.3922119
+            },
+            {
+                "nodeid": "10743552602",
+                "latitude": 40.9590136,
+                "longitude": 115.3915839
+            },
+            {
+                "nodeid": "10743552603",
+                "latitude": 40.9593796,
+                "longitude": 115.3910691
+            },
+            {
+                "nodeid": "10743552604",
+                "latitude": 40.9599331,
+                "longitude": 115.3901782
+            }
+        ],
+        "type": 2,
+        "subType": null,
+        "difficulty": null
+    }
+]

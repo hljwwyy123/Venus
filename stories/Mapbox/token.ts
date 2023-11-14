@@ -1,0 +1,3 @@
+const SKI_TOKEN = "pk.eyJ1IjoiYXJlbndvbmciLCJhIjoiY2xveTI2b3ZuMWMyeDJrcDh1YTh0czNvZSJ9.-exooTdWy6jeKwKTotC51g"
+
+export default SKI_TOKEN
