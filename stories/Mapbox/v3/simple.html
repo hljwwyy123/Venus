@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapbox v3</title>
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  </style>
+<script src='https://api.mapbox.com/mapbox-gl-js/v3.0.0-beta.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v3.0.0-beta.1/mapbox-gl.css' rel='stylesheet' />
+<script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
+</head>
+<body>
+
+
+<div id='map' ></div>
+
+<script>
+  // TO MAKE THE MAP APPEAR YOU MUST
+  // ADD YOUR ACCESS TOKEN FROM
+  // https://account.mapbox.com
+  // mapboxgl.accessToken = 'pk.eyJ1IjoiYXJlbndvbmciLCJhIjoiY2xveTI2b3ZuMWMyeDJrcDh1YTh0czNvZSJ9.-exooTdWy6jeKwKTotC51g';
+  mapboxgl.accessToken = 'pk.eyJ1IjoidHJhdmVsZXIiLCJhIjoiY2lqdHNsY2k1MDc3dnZha2d3NHNlZWY4MCJ9.0tjG6pQC78Cg9F4_KvIIdw';
+
+  const map = new mapboxgl.Map({
+      container: 'map', // container ID
+      // style: 'mapbox://styles/traveler/ckks4hgye0ozn17phx56fabas?optimize=true', //stylesheet location
+      style: 'mapbox://styles/traveler/ckks4hgye0ozn17phx56fabas?optimize=true', //stylesheet location
+      center: [115.398531, 40.963541], // starting position [lng, lat]
+      zoom: 14, // starting zoom
+      pitch: 85,
+      bearing: -30,
+      logoPosition: "bottom-right",
+  });
+
+  map.on('load', function() {
+    initMap();
+  });
+
+  function initMap() {
+    map.addSource('mapbox-dem', {
+        'type': 'raster-dem',
+        'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+        // 'url': 'mapbox.mapbox-terrain-v2',
+        'tileSize': 512,
+        'maxzoom': 14
+    });
+    map.setTerrain({
+        'source': 'mapbox-dem',
+        'exaggeration': 2
+    });
+    // map.addLayer({
+    //         'id': 'sky',
+    //         'type': 'sky',
+    //         'paint': {
+    //             // set up the sky layer to use a color gradient
+    //             'sky-type': 'gradient',
+    //             // the sky will be lightest in the center and get darker moving radially outward
+    //             // this simulates the look of the sun just below the horizon
+    //             'sky-gradient': [
+    //                 'interpolate',
+    //                 ['linear'],
+    //                 ['sky-radial-progress'],
+    //                 0.8,
+    //                 'rgba(135, 206, 235, 1.0)',
+    //                 1,
+    //                 'rgba(0,0,0,0.1)'
+    //             ],
+    //             'sky-gradient-center': [0, 0],
+    //             'sky-gradient-radius': 90,
+    //             'sky-opacity': [
+    //                 'interpolate',
+    //                 ['exponential', 0.1],
+    //                 ['zoom'],
+    //                 5,
+    //                 0,
+    //                 22,
+    //                 1
+    //             ]
+    //         }
+    //     });
+        
+  }
+  </script>
+  </body>
+  </html>

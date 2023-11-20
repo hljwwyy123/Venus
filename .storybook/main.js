@@ -15,6 +15,8 @@ const path = require('path')
       }
     ]);
     config.resolve.alias['@'] = path.resolve(__dirname, '../src')
+    // config.resolve.alias['browser'] = window
+    config.resolve.mainFields = ['browser','module','main']
     return config
   }
 };
